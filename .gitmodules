@@ -1,3 +1,6 @@
-[submodule "test"]
-	path = test
-	url = https://github.com/alex-kay/test.git
+[submodule "kubernetes-homework3"]
+	path = kubernetes-homework3
+	url = https://github.com/alex-kay/kubernetes-homework3.git
+[submodule "jenkins-homework2"]
+	path = jenkins-homework2
+	url = https://github.com/alex-kay/jenkins-homework2.git
