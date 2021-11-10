@@ -4,3 +4,24 @@
 [submodule "jenkins-homework2"]
 	path = jenkins-homework2
 	url = https://github.com/alex-kay/jenkins-homework2.git
+[submodule "gcp-homework"]
+	path = gcp-homework
+	url = https://github.com/alex-kay/gcp-homework.git
+[submodule "kubernetes-homework"]
+	path = kubernetes-homework
+	url = https://github.com/alex-kay/kubernetes-homework.git
+[submodule "task3-minikube"]
+	path = task3-minikube
+	url = https://github.com/alex-kay/task3-minikube.git
+[submodule "jenkins-homework"]
+	path = jenkins-homework
+	url = https://github.com/alex-kay/jenkins-homework.git
+[submodule "jenkins-shared-lib"]
+	path = jenkins-shared-lib
+	url = https://github.com/alex-kay/jenkins-shared-lib.git
+[submodule "ansible-homework"]
+	path = ansible-homework
+	url = https://github.com/alex-kay/ansible-homework.git
+[submodule "gcp-tf-homework"]
+	path = gcp-tf-homework
+	url = https://github.com/alex-kay/gcp-tf-homework.git
